@@ -1,0 +1,35 @@
+body {
+    background-image: url('https://digitaladdictsblog.com/wp-content/uploads/2019/01/shutterstock_295846730.jpg');
+    font-family: 'Work Sans', sans-serif;
+    background-size: auto 100vh;
+    height: 100vh;
+}
+
+.menu {
+    background-color: #f5f5f5;
+}
+
+.menu ul {
+    display: flex;
+    justify-content: space-around;
+}
+
+.menu li {
+    list-style: none;
+}
+
+a {
+    color: #7c3d7c;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.site-subtitle,
+.site-title {
+    color: #f5f5f5;
+    text-align: center;
+}
+
